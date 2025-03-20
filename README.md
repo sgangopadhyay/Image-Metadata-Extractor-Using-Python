@@ -2,7 +2,7 @@
 
 ## Program Description
 
-* **Functionality:** Performs monkey testing on a website.
+* **Functionality:** GPS Location Extractor from Images using Python.
 * **Programmer:** Suman Gangopadhyay
 * **Email ID:** linuxgurusuman@gmail.com
 * **Date:** 25-Feb-2025
